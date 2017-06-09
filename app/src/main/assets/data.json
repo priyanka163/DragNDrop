@@ -1,0 +1,18 @@
+{
+  "question":
+  {
+    "fruita":"Apple",
+    "fruitb":"Banana",
+    "fruitc":"cake"
+  },
+
+  "answer":
+  {
+    "a":"A for",
+    "b":"B for",
+    "c":"c for"
+  }
+
+
+
+}
